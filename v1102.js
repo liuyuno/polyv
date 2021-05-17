@@ -1,6 +1,3 @@
-console.log = function (){}
-console.clear = function () {}
-
 
 !function (t, e) {
     
